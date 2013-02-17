@@ -1,0 +1,6 @@
+Simple responsive theme for PluXm 5.1.5 build with skeleton boilerplate http://www.getskeleton.com/
+Design inspired from http://demos.simplethemes.com/skeleton/
+Created by François POTEAU http://www.francoispoteau.com
+Need jquery et hamgravatar plugin if you intend to use this theme to its full capacity
+Licenced under GPL
+Please don't remove the link to my website :)
